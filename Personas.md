@@ -24,99 +24,100 @@
 -	Quasi der Otto Normalverbraucher unter 50 Jahren 
 -	filtert nach Titel/Datum/Uhrzeit
 -	Reserviert Tickets, um sie vor der Vorstellung abholen zu können
-Skills:
+### Skills:
 -	Grundlagen des Internets
 -	Online Bestellvorgänge
 -	Kein Digital Native, aber hat sich angepasst 
-Ziele:
+### Ziele:
 -	Film finden, der ihm gefällt
 -	Sitzplatz aussuchen
 -	Reservieren des Tickets und eventuell kaufen oder stornieren
-Mag nicht: 
+### Mag nicht: 
 -	jedes mal neu anmelden 
-Mag:
+### Mag:
 -	eine Sitzplatz Vorauswahl 
-Justus Brutus Müller 	Rolle:
+## Justus Brutus Müller 	
+### Rolle:
 -	Deutscher Sparfuchs
 -	Lässt sich nichts gefallen
 -	Zwischen 20 & 30 Jahren
-Skills:
+### Skills:
 -	Sich mit Kundensupport rumschlagen
 -	Sich genau über Sachen informieren
-Ziele:
+### Ziele:
 -	Angebote nutzen
 -	Möchte in das Kino in seiner Stadt
 -	Möchte das Gefühl haben, dass er das Kinoerlebnis mitgestalten kann
 -	Reserviert Tickets, damit er sich in letzter Sekunde noch umentscheiden kann
-Mag nicht:
+### Mag nicht:
 -	Abgezockt zu werden
 -	Etwas nicht Handfest zu haben
-Mag:
+### Mag:
 -	Feedbackmöglichkeiten
 -	Angebote und über neue Filme inormiert werden
 -	Genaue Informationen zum Film und zur Buchung
 
-Yves-Justin Kauwetter 
-	Rolle:
+## Yves-Justin Kauwetter 
+### Rolle:
 -	Zieht sich sehr Stylisch an
 -	Hat Apple Watch und AirPods
 -	Sehr reiche Eltern
 -	Spielt fortnite
-Skills: 
+### Skills: 
 -	Hat nur Userspezifische Ahnung von Technik
 -	Besitzt modernste Technik und ist damit aufgewachsen
-Ziele:  
+### Ziele:  
 -	Möchte so einfach und hip wie möglich sein Ticket buchen
 -	Möchte für seine Crew, seine Gang, Tickets buchen
 -	Möchte alle Superhelden filme gucken, besonders DC weil das ist so “dark”
 -	Möchte sogar über neue Filme informiert werden per E-Mail oder irgendwas hipperes
-Mag nicht:
+### Mag nicht:
 -	Veraltete Buchungsmethoden / Technik
 -	Telefonieren
 -	Wenn eine Website nicht auf sein iPhone XS Max mit Retina Display und Dual Kamera© korrekt angezeigt wird
-Mag: 
+### Mag: 
 -	Wenn Sachen einfach funktionieren - it’s that simple
 -	Seine Freunde und wenn er mit ihnen ins Kino geht; auch Dates ;) 
 -	neueste Technologien
 -	Eine gute Kino-Experience; er muss den Film “spüren”
 -	eine Belohnung wenn er oft ins Kino geht (Loot Boxen oder einen Seasonpass mit Vorteilen)
 -	PayPal & Apple Pay
-Karen Sweetwater  	Rolle: 
+## Karen Sweetwater  	
+### Rolle: 
 -	Mama von 3 süßen Kindern
 -	Mittelständig, alleinerziehend
 -	Fährt einen Minivan
 -	Ende 30/ Anfang 40
-Skills:
+### Skills:
 -	Kennt sich ein bisschen mit Technik auch, benutzt sogar Excel recht professionell bei der Arbeit
 -	kauft öfter online ein
-Ziele:
+### Ziele:
 -	Möchte einen Disney Film buchen für die Kinder und sich
 -	Möchte wissen welche Altersbeschränkungen die Filme haben
 -	Möchte so wenig Stress wie möglich, sie hat ja schon so genug
 -	Möchte die Website auf ihrem iPad öffnen
-Mag nicht:
+### Mag nicht:
 -	Stress
 -	Wenn sie etwas nicht versteht
 -	Wenn sie nicht bei ihren Kindern sitzen kann
-Mag:
+### Mag:
 -	Wenn es unkompliziert läuft
 -	mit der Kreditkarte oder PayPal zu zahlen
 -	Trailer von Filmen zu sehen
-Walter Verwalter 	Rolle: 
+## Walter Verwalter 	
+### Rolle: 
 -	Mitarbeiter des Kinos
-Skills: 
+### Skills: 
 -	ABAP, Java und CMS 
 -	verbringt sehr viel Zeit im Internet und Kino (aber nur in den Schmuddelfilmen)
-Ziele: 
+### Ziele: 
 -	möchte flexibel arbeiten können
 -	Filme dem Angebot hinzufügen / löschen
 -	Vorführungen für einen Film erstellen / löschen
 -	 Zugriffe auf Benutzer um sie zu verwalten
-Mag nicht: 
+### Mag nicht: 
 -	umständliches Speichern
 -	Filme in verschiedenen Sprachen hinzufügen
 -	den Kundensupport spielen
-Mag: 
+### Mag: 
 -	schnelles und zuverlässig arbeiten
-
-
